@@ -22,7 +22,6 @@ sudo apt -y install \
   neofetch \
   tar \
   gzip \
-  uvx \
     &>xerr || xerror "Cannot install required packages!"
 
 echo "Installing DumprX..."
